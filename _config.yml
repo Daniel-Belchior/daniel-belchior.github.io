@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Daniel da Silva Belchior"
-  avatar : "/assets/images/pokémon.png"
+  avatar : "/assets/images/pokémon.jpg"
   bio    : "PhD candidate"
   location : "Minneapolis, MN, USA"
   email: "belch074@umn.edu"
@@ -79,8 +79,10 @@ author:
       url: "https://github.com/daniel-belchior"
 
 footer:
-  email: "belch074@umn.edu"
   links:
+    -label: "Email"
+      icon: "envelope"
+      url: "mailto:belch074@umn.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/daniel-belchior"
