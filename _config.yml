@@ -70,7 +70,7 @@ author:
       url: "/assets/cv/CV_current.pdf"
     - label: "Job Market Paper"
       icon: "far fa-file-pdf"
-      #url: "/assets/papers/JMP_AMF.pdf"
+      url: "/assets/research/JMP_current.pdf"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/daniel-belchior/"
