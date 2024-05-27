@@ -13,16 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: "Daniel da Silva Belchior"
+url: "https://daniel-belchior.github.io"
+email: belch074@umn.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
-search: true
+  Hi! I am a PhD candidate in Economics at the University of Minnesota. 
+  My field of interest are Macroeconomics, primarily in the fields of Optimal Taxation, Family Economics, and International Economics.
+github_username: Daniel-Belchior
+minimal_mistakes_skin: air
+search: false
 
 # Build settings
 markdown: kramdown
@@ -48,44 +47,48 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-seo-tag
   - jemoji
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Daniel da Silva Belchior"
+  avatar : "/assets/images/pokémon.png"
+  bio    : "PhD candidate"
+  location : "Minneapolis, MN, USA"
+  email: "belch074@umn.edu"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Curriculum Vitae"
+      icon: "far fa-file-pdf"
+      url: "/assets/papers/CV_current.pdf"
+    - label: "Job Market Paper"
+      icon: "far fa-file-pdf"
+      #url: "/assets/papers/JMP_AMF.pdf"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/daniel-belchior/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/daniel-belchior"
 
 footer:
+  email: "belch074@umn.edu"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/daniel-belchior"
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 defaults:
   # _posts
