@@ -1,12 +1,10 @@
 ---
-title: ""
+title: "Contacts"
 permalink: /contact/
 author_profile: true
 ---
 
-## Contact
-
-**E-mail** \
+**Email** \
 belch074@umn.edu \
 danielbelchior94@gmail.com
 
