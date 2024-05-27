@@ -80,9 +80,6 @@ author:
 
 footer:
   links:
-    -label: "Email"
-      icon: "envelope"
-      url: "mailto:belch074@umn.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/daniel-belchior"
