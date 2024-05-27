@@ -10,3 +10,6 @@ main:
   
   - title: "CV"
     url: /assets/cv/CV_current.pdf
+
+    - title: "Contact"
+      url: /contact/
