@@ -1,7 +1,6 @@
 ---
 title: ""
 permalink: /
-layout: home
 ---
 
 ## About me
