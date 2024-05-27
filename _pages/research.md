@@ -1,6 +1,6 @@
 ---
 title: "Reseach"
 permalink: /research/
-layout: single
+layout: page
 author_profile: true
 ---
