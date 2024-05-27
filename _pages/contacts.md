@@ -3,7 +3,8 @@ title: "Contacts"
 permalink: /contacts/
 author_profile: true
 ---
-
+\
+\
 **Email** \
 belch074@umn.edu \
 danielbelchior94@gmail.com
