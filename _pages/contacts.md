@@ -6,7 +6,7 @@ author_profile: true
 \
 \
 **Email** \
-[belch074@umn.edu](url: mailto:belch074@umn.edu) \
+[belch074@umn.edu](mailto:belch074@umn.edu) \
 danielbelchior94@gmail.com
 
 **Mailing Address** \
