@@ -1,0 +1,7 @@
+- title: "Optimal Prudential Taxation"
+  link: /assets/papers/JMP_AMF.pdf
+  coauthors:
+    - name: Catarina Reis
+      link: https://clsbe.lisboa.ucp.pt/person/catarina-reis
+  publication: July 2019
+  abstract: "In an economy where the wage is downward rigid and the current wage determines the lower bound for the wage in the future, the effects of economic crises may be amplified. We show that if it is not possible to implement a fiscal devaluation, the optimal policy response to this market imperfection includes time-varying labor income taxes but it does not include capital control taxes. The optimal labor income tax exhibits a prudential nature, with a lower tax during booms to make the wage constraint less binding during recessions. We also show that prudential capital controls only emerge if labor income taxes are removed from the set of fiscal instruments. Therefore, we conclude that a labor income tax policy performs better than a capital control tax policy."
