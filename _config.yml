@@ -47,6 +47,14 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# Analytics
+analytics:
+  provider               : google-gtag
+  google:
+    tracking_id          : G-S20HXYDJJ7
+    anonymize_ip         : false
+    allow_google_signals : false
+
 
 # Plugins (previously gems:)
 plugins:
