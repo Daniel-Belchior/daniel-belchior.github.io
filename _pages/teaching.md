@@ -15,8 +15,6 @@ My teaching philoshopy is here. (_Coming soon_)
   
 - Microeconomics (Fall 2018) at Católica Human Sciences, Lisbon \
 
-\
-
 [Description of the role and teaching effectiveness]
 
 
