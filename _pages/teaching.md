@@ -20,7 +20,7 @@ My teaching philoshopy is here. (_Coming soon_)
 
 - Intermediate Microeconomics (ECON 3101) (Fall 2020 / Spring 2021) at University of Minnesota, Minneapolis, MN
 
-- Intermediate Microeconomics, Intermediate Macroeconomics, Open Economy Macroeconomics (Fall 2016 - Spring 2019) at Católica Lisbon, SBE, Lisbon
+- Intermediate Microeconomics, Intermediate Macroeconomics, Open Economy Macroeconomics (Spring 2016 - Spring 2019) at Católica Lisbon, SBE, Lisbon
 
 
 ##### [Summary of teaching experience and effectiveness](/assets/teaching/syllabi/Syllabus_Fall2023.pdf)
