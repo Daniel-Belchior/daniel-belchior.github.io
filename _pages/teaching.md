@@ -15,14 +15,13 @@ My teaching philoshopy is here. (_Coming soon_)
   
 - Microeconomics (Fall 2018) at Católica Human Sciences, Lisbon
 
-A brief description of these roles and a summary of the teaching effectiveness can be found here. [Description of the role and teaching effectiveness]
-
 
 ### Teaching Assistant
 
 - Intermediate Microeconomics (ECON 3101) (Fall 2020 / Spring 2021) at University of Minnesota, Minneapolis, MN
 
-- Intermediate Microeconomics, Intermediate Macroeconomics, Open Economy Macroeconomics (Fall 2016 - Spring 2019) at Católica Lisbon, SBE, Lisbon \
+- Intermediate Microeconomics, Intermediate Macroeconomics, Open Economy Macroeconomics (Fall 2016 - Spring 2019) at Católica Lisbon, SBE, Lisbon
 
-A brief description of these roles and a summary of the teaching effectiveness can be found [here].
+
+A summary of the teaching effectiveness can be found [here].
 
