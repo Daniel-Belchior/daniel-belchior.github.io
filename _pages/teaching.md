@@ -18,6 +18,3 @@ author_profile: true
 
 - Intermediate Microeconomics, Intermediate Macroeconomics, Open Economy Macroeconomics (Spring 2016 - Spring 2019) at Católica Lisbon, SBE, Lisbon
 
-
-##### [Summary of teaching experience and effectiveness]
-
