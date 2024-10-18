@@ -16,7 +16,7 @@ author_profile: true
 
 - Intermediate Microeconomics (ECON 3101) (Fall 2020 / Spring 2021) at University of Minnesota, Minneapolis, MN
 
-- Advanced Macroeconomics (Fall 2018) at Católica Lisbon, SBE, Lisbon
+- Advanced Macroeconomics (Fall 2018) at Católica Lisbon SBE, Lisbon
 
-- Intermediate Microeconomics, Intermediate Macroeconomics, Open Economy Macroeconomics (Spring 2016 - Spring 2019) at Católica Lisbon, SBE, Lisbon
+- Intermediate Microeconomics, Intermediate Macroeconomics, Open Economy Macroeconomics (Spring 2016 - Spring 2019) at Católica Lisbon SBE, Lisbon
 
